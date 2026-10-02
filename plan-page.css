@@ -15,22 +15,54 @@ section article {
     height:500px;
     text-align:center;
     display: inline-block;
-
-}
-
-article {
-    background-color: #262626;
-    display: inline-block;
-    margin: 80px 20px 0px 20px;
+    background: #262626;
+    margin: 150px 20px 0px 20px;
     border: 1px solid #424242;
-    border-radius: 5px;
     color: #a1a1a1;
+
+
 }
 
-article h1 {
-    background-color: #27dcc4;
-    color: #fff;
+
+
+section article h1 {
+    font-size:1.5em;
+    color: #ffffff;
+    margin: 25px 0 25px 0;
+
+
 }
+
+section article p.price {
+    font-size: 3em;
+    font-weight: bold;
+    color: #27dcc4;
+    margin: 40px;
+}
+
+section article ul {
+    padding: 0;
+
+}
+section article ul li{
+    list-style: none;
+    padding:  6px 0;
+
+
+    
+
+}
+section article button{
+    background: #27dcc4;
+    border: none;
+    padding: 6px 0;
+}
+
+section article button:hover{
+    background: #ACACAC;
+
+}
+
    
 
 
