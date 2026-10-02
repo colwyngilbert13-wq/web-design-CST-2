@@ -1,0 +1,43 @@
+body{
+   font-family: "lato", sans-serif;
+    background-image: url(images/plan-page.jpg);
+    font-size:16px;
+    width: 1180px;
+
+
+
+}
+
+
+section article {
+    align-items: center;
+    width: 300px;
+    height:500px;
+    text-align:center;
+    display: inline-block;
+
+}
+
+article {
+    background-color: #262626;
+    display: inline-block;
+    margin: 80px 20px 0px 20px;
+    border: 1px solid #424242;
+    border-radius: 5px;
+    color: #a1a1a1;
+}
+
+article h1 {
+    background-color: #27dcc4;
+    color: #fff;
+}
+   
+
+
+
+
+
+
+
+
+
